@@ -1,3 +1,10 @@
+Description of three observable trends from Pymoli
+
+1. Men makeup the majority of players at 84%.
+2. The average purchase price for men is lower then other gender segments at $3.02.
+3. Age range of 20-24 are the dominant age group for players of Pymoli, with 44.79% of the total.  
+
+
 # Pandas-Challenge
 
 Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
